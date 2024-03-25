@@ -24,6 +24,6 @@ Furthermore, the following Python packages are required:
 - SciPy (https://pypi.org/project/scipy/)
 
 ### References
-[1] *TBA*
+[1] Gaudreault, J. G., & Branco, P. (2024). Empirical analysis of performance assessment for imbalanced classification. Machine Learning, 1-43.
 
 [2] Alcalá-Fdez, J., Fernandez, A., Luengo, J., Derrac J., García S., Sánchez L., Herrera, F. (2011) KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework. Journal of Multiple-Valued Logic and Soft Computing.
